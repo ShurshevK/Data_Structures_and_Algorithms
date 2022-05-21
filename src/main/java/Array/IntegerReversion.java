@@ -1,3 +1,5 @@
+package Array;
+
 public class IntegerReversion {
     public int reverse(int n){
 

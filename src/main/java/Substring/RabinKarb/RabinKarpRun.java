@@ -1,10 +1,7 @@
-package String;
+package Substring.RabinKarb;
 
 
-import String.RabinKarb.RabinKarp;
-import String.BruteForce.BruteForceSearch;
-
-public class App {
+public class RabinKarpRun {
 
     public static void main(String[] args) {
 

@@ -1,4 +1,4 @@
-package String.RabinKarb;
+package Substring.RabinKarb;
 
 public class RabinKarp {
 

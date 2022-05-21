@@ -1,3 +1,5 @@
+package Array;
+
 public class palindrom {
 
     public boolean solve(String s1){

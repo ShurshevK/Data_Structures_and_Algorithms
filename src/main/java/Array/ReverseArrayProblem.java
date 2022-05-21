@@ -1,3 +1,5 @@
+package Array;
+
 public class ReverseArrayProblem {
 
     public int[] solve(int[] nums) {

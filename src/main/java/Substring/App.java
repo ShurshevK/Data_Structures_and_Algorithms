@@ -1,9 +1,9 @@
-package String.RabinKarb;
+package Substring;
 
 
-import String.RabinKarb.RabinKarp;
+import Substring.RabinKarb.RabinKarp;
 
-public class RabinKarpRun {
+public class App {
 
     public static void main(String[] args) {
 

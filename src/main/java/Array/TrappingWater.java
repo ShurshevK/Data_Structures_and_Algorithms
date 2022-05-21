@@ -1,3 +1,5 @@
+package Array;
+
 public class TrappingWater {
 
     public int solve (int[] heights){

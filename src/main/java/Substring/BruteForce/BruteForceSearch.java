@@ -1,4 +1,4 @@
-package String.BruteForce;
+package Substring.BruteForce;
 
 public class BruteForceSearch {
 
